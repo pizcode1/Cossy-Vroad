@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/core/AudioManager.ts","./src/core/utils.ts","./src/game/ChunkManager.ts","./src/game/GameManager.ts","./src/game/ObstacleSpawner.ts","./src/game/PlayerController.ts","./src/game/config.ts","./src/game/types.ts","./src/ui/UIManager.ts"],"errors":true,"version":"5.9.3"}
